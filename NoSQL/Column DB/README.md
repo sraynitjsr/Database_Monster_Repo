@@ -19,3 +19,7 @@
 #### Time-Series Data Model:-
 
 ##### Specialized data model for time-series data, such as sensor data, logs, and events. Data is indexed and queried based on timestamps. Optimized for handling high write and read throughput of time-series data.
+
+##### Materialized View Data Model:-
+
+#### Cassandra supports materialized views, which allow you to create precomputed views of data to simplify querying. This model is helpful when you need to query data in various ways without complex and costly joins.
