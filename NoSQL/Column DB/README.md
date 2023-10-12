@@ -23,3 +23,7 @@
 ##### Materialized View Data Model:-
 
 #### Cassandra supports materialized views, which allow you to create precomputed views of data to simplify querying. This model is helpful when you need to query data in various ways without complex and costly joins.
+
+##### Relational Data Model (CQL):-
+
+#### Cassandra Query Language (CQL) allows you to model data in a way that resembles traditional relational databases. While it maintains CQL's benefits, it still adheres to Cassandra's distributed architecture.
