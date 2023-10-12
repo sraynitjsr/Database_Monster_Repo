@@ -31,3 +31,7 @@
 ##### Hierarchical Data Model:-
 
 #### This model allows you to represent hierarchical data structures like directories and file systems. Ideal for managing and querying hierarchical data efficiently.
+
+##### Key-Value Data Model:-
+
+#### Though not the primary focus of Cassandra, it can be used as a distributed key-value store where the value is often a binary blob. Typically used when simple, fast key-based access is required.
