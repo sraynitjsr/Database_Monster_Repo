@@ -39,3 +39,5 @@
 ##### Geospatial Data Model:-
 
 #### Cassandra's support for geospatial data modeling allows storing and querying geographic information. Useful for location-based applications and services.
+
+## Each data model in Cassandra is designed to address specific use cases and offers different trade-offs in terms of performance, flexibility, and scalability. The choice of data model should be based on your application's requirements and the nature of the data you are working with.
