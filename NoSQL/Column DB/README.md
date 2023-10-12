@@ -35,3 +35,7 @@
 ##### Key-Value Data Model:-
 
 #### Though not the primary focus of Cassandra, it can be used as a distributed key-value store where the value is often a binary blob. Typically used when simple, fast key-based access is required.
+
+##### Geospatial Data Model:-
+
+#### Cassandra's support for geospatial data modeling allows storing and querying geographic information. Useful for location-based applications and services.
