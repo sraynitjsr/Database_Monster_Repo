@@ -27,3 +27,7 @@
 ##### Relational Data Model (CQL):-
 
 #### Cassandra Query Language (CQL) allows you to model data in a way that resembles traditional relational databases. While it maintains CQL's benefits, it still adheres to Cassandra's distributed architecture.
+
+##### Hierarchical Data Model:-
+
+#### This model allows you to represent hierarchical data structures like directories and file systems. Ideal for managing and querying hierarchical data efficiently.
