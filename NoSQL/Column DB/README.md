@@ -2,6 +2,4 @@
 
 #### Column-Family Data Model:-
 
-##### This is the traditional data model in Cassandra.
-##### Data is organized into column families (tables), rows (keys), and columns within each row.
-##### Well-suited for time-series data or data with varying attributes.
+##### This is the traditional data model in Cassandra. Data is organized into column families (tables), rows (keys), and columns within each row. Well-suited for time-series data or data with varying attributes.
