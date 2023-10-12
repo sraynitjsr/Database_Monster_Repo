@@ -1,4 +1,7 @@
-# Cassandra DB is a Column Based NoSQL DB
+## Cassandra supports multiple data models to cater to various use cases. Here are some of the most common data models in Cassandra:
 
-# First Cassandra Query
-## SELECT name, country FROM my_players WHERE profession = 'Sachin';
+#### Column-Family Data Model:-
+
+##### This is the traditional data model in Cassandra.
+##### Data is organized into column families (tables), rows (keys), and columns within each row.
+##### Well-suited for time-series data or data with varying attributes.
