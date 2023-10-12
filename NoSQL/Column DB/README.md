@@ -7,3 +7,7 @@
 #### Wide-Column Data Model:-
 
 ##### An extension of the column-family data model. Each row can have a varying number of columns, and columns are grouped into column families. Allows for efficient querying of specific columns and is often used in time-series data and sensor data.
+
+#### Document Data Model:-
+
+##### Introduced in Cassandra 2.0 and improved in later versions. Data is organized as collections of documents. Each document can have a different structure and schema. Suitable for storing JSON-like data and provides flexible schema support.
