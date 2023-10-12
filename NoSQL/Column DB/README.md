@@ -11,3 +11,7 @@
 #### Document Data Model:-
 
 ##### Introduced in Cassandra 2.0 and improved in later versions. Data is organized as collections of documents. Each document can have a different structure and schema. Suitable for storing JSON-like data and provides flexible schema support.
+
+#### Graph Data Model:-
+
+##### Graph databases in Cassandra, such as DSE Graph, allow the storage and retrieval of graph-based data. Data is organized into vertices (nodes) and edges. Ideal for use cases involving relationships, social networks, and complex graph-based data structures.
