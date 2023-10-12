@@ -15,3 +15,7 @@
 #### Graph Data Model:-
 
 ##### Graph databases in Cassandra, such as DSE Graph, allow the storage and retrieval of graph-based data. Data is organized into vertices (nodes) and edges. Ideal for use cases involving relationships, social networks, and complex graph-based data structures.
+
+#### Time-Series Data Model:-
+
+##### Specialized data model for time-series data, such as sensor data, logs, and events. Data is indexed and queried based on timestamps. Optimized for handling high write and read throughput of time-series data.
